@@ -1,0 +1,6 @@
+{
+  "name": "munglabs-boilerplate",
+  "dependencies": {
+    "munglabs-framework": "failcoder/munglabs-framework"
+  }
+}
